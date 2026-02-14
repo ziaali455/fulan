@@ -31,13 +31,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: |
-          if [ -n "${{ vars.BASE_URL }}" ]; then
-            hugo -b "${{ vars.BASE_URL }}" --minify
-          else
-            REPO_NAME="${GITHUB_REPOSITORY#*/}"
-            hugo -b "https://${{ github.repository_owner }}.github.io/${REPO_NAME}/" --minify
-          fi
+        run: hugo -b "https://www.fulan.blog/" --minify
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
