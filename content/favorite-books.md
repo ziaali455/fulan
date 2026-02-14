@@ -32,6 +32,10 @@ title = "Modern Brazil by Pereira"
 image = "/images/books/modbrazil.jpg"
 
 [[books]]
+title = "Beyond Bilal by Mustafa Briggs"
+image = "/images/books/beyondbilal.jpg"
+
+[[books]]
 title = "The Impossible State by Wael Hallaq"
 image = "/images/books/impossible.jpg"
 
