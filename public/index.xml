@@ -2,58 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Fulan</title>
-    <link>http://localhost:59985/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Fulan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:59985/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/favorite-books/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/favorite-books/</guid>
+      <description>&lt;p&gt;Some of my favorite books/the ones most relevant to my mind at the moment.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A Critique of Joseph Schacht and Orientalist Narratives on Islamic Law</title>
-      <link>http://localhost:59985/critique-of-joseph-schacht-and-orientalist-narratives-on-islamic-law/</link>
+      <link>http://localhost:1313/critique-of-joseph-schacht-and-orientalist-narratives-on-islamic-law/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59985/critique-of-joseph-schacht-and-orientalist-narratives-on-islamic-law/</guid>
+      <guid>http://localhost:1313/critique-of-joseph-schacht-and-orientalist-narratives-on-islamic-law/</guid>
       <description>&lt;p&gt;Joseph Schacht’s “Pre-Islamic Background and Early Development of Jurisprudence” traces the evolution of Islamic law from pre-Islamic Arabia to the emergence of the Sunni legal schools. Schacht argues that Islamic law did not develop in a technical sense during the first century of Islam, claiming early Muslim practice was governed primarily by custom. However, Schacht’s presentation of the development of early Islamic jurisprudence lacks a consistent criteria of evaluating whether specific aspects of Islamic society qualify as “legal” rather than customary or moral. In his analysis, his reasoning for accrediting specific time periods, figures, and schools of thought with legal authority is at times fixed by a modern standard of law, relying on criteria that change depending on the historical conclusion he seeks to advance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Brazil and Abolition</title>
-      <link>http://localhost:59985/brazil-and-abolition/</link>
+      <link>http://localhost:1313/brazil-and-abolition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59985/brazil-and-abolition/</guid>
+      <guid>http://localhost:1313/brazil-and-abolition/</guid>
       <description>&lt;p&gt;Why was Brazil the last nation to abolish slavery?&lt;/p&gt;&#xA;&lt;p&gt;Brazil’s complicated relationship with the institution of slavery has been a compelling aspect of its tense political and social climate from its inception until today. What makes this dynamic even more intriguing is the extensive time taken for Brazil to abolish the slave trade compared to other countries in the Western world. Brazil’s reluctance to join in on a larger abolitionist movement in the 1800s begs the question of why abolition was delayed both socially and in law. While many explanations exist for such a slow removal of slavery, the justification behind Brazil’s slow abolition was ultimately rooted in diplomatic strategy, economic tensions, and religious attitudes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Christianization&#39;s Impact on Atlantic Slavery</title>
-      <link>http://localhost:59985/christianizations-impact-on-atlantic-slavery/</link>
+      <link>http://localhost:1313/christianizations-impact-on-atlantic-slavery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59985/christianizations-impact-on-atlantic-slavery/</guid>
+      <guid>http://localhost:1313/christianizations-impact-on-atlantic-slavery/</guid>
       <description>&lt;p&gt;How did Christianization facilitate or limit slavery across the Atlantic?&lt;/p&gt;&#xA;&lt;p&gt;The spread of Christianity was paramount to colonial efforts across areas of the New World and parts of Africa that later became known as the Atlantic. This process, known as the Christianization of European colonialism, took different forms across the colonies and institutions it created. Slavery, one of the primary institutions that fueled the creation of the modern Atlantic, also had its ties to Christian ideals spread by colonial forces such as the Spanish and Portuguese. Yet, these connections are much more complex than Christianity across the Atlantic condoning or refusing slavery. Upon further investigation, Christianity was used both as a uniting force and a measure against dissent across the Atlantic, with its presence acting as an institutional method of justifying slavery, while also bringing about objections among the slave communities it created.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Palmares and Afro-Brazilian Resistance</title>
-      <link>http://localhost:59985/palmares-and-afro-brazilian-resistance/</link>
+      <link>http://localhost:1313/palmares-and-afro-brazilian-resistance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59985/palmares-and-afro-brazilian-resistance/</guid>
+      <guid>http://localhost:1313/palmares-and-afro-brazilian-resistance/</guid>
       <description>&lt;p&gt;What was the significance of Palmares for Afro-Brazilian resistance in the colonial period?&lt;/p&gt;&#xA;&lt;p&gt;The Palmares, or Quilombo dos Palmares, was a community primarily founded by runaway African slaves in colonial Brazil during the early 1600s. Palmares was a long-lasting and significant quilombo that resisted Portuguese and Dutch attempts at subjugation for nearly a century and posed a considerable threat to the slave-based colonial system. Despite being one of many quilombo communities across the colony, Palmares and its contribution to the sociopolitical fabric of Afro-Brazilian life makes it an essential case study of enslaved resistance under Portuguese colonial rule. The actions of the Palmares communities undoubtedly redefined how historians view Afro-Brazilian sovereignty. Palmares successfully pushed a narrative of agency for Afro-Brazilians through its emphasis on an intertwined political and religious sovereignty, and a focus on both trade and warfare with colonial forces.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Religious Persecution in the Portuguese Empire</title>
-      <link>http://localhost:59985/religious-persecution-in-the-portuguese-empire/</link>
+      <link>http://localhost:1313/religious-persecution-in-the-portuguese-empire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59985/religious-persecution-in-the-portuguese-empire/</guid>
+      <guid>http://localhost:1313/religious-persecution-in-the-portuguese-empire/</guid>
       <description>&lt;p&gt;Was religious persecution an effective form of domination across the Portuguese Empire?&lt;/p&gt;&#xA;&lt;p&gt;Trial, violence, and control through the framework of religion was rampant under the Portuguese empire, especially with regards to the Christian faith and the influence of religious leaders. A spiritual, economic, and political tension characterized much of early Portuguese accounts of conquered land and the treatment and characterization of Indigenous, African and Lusophone people inhabiting the colonies. Questions arise regarding whether this kind of religious persecution in the hopes of Portuguese domination was truly ‘effective’–that is, whether it aided in the Portuguese gaining control over their colonies (“Domination”). Through the examination of documented histories and legal proceedings in Portuguese colonies, religious persecution emerged as an effective form of domination, especially in the flexibility it gave to legal rulings, its presence as a remedy for political insurrection, and its aid in establishing a racial and gender-based hierarchy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Malê Revolt and Brazil&#39;s &#34;Racial Democracy&#34;</title>
-      <link>http://localhost:59985/the-male-revolt-and-brazils-racial-democracy/</link>
+      <link>http://localhost:1313/the-male-revolt-and-brazils-racial-democracy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59985/the-male-revolt-and-brazils-racial-democracy/</guid>
-      <description>&lt;p&gt;The Malê Revolt and Brazil&amp;rsquo;s &amp;ldquo;Racial Democracy”&lt;/p&gt;&#xA;&lt;p&gt;The Malê revolt, otherwise known as the Ramadan revolt, was a slave revolt in Salvador, Bahia during the last 10 days of Ramadan in January of 1835. The rebellion was orchestrated mainly by African Muslim slaves against slave owners and was paramount to the eventual abolition of slavery across Brazil in 1888. The event was the culmination of years of unrest among Brazilian slave communities in Bahia, especially as they were forced into converting to Catholicism by slave owners and saw many other black Africans and mixed-race Brazilians participate in the slave trade. Understanding the tensions fueling the revolt as well as the impacts of the event is critical for gaining a sense of how blackness is treated in Brazil. The Malê revolt was an important step for establishing critical civil rights for Black Brazilians throughout Brazil, but its origins reveal parallels between the suffering of slaves in Salvador and the current condition of Afro-Brazilians as second-class citizens in a society claimed to be a “racial democracy”.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/the-male-revolt-and-brazils-racial-democracy/</guid>
+      <description>&lt;p&gt;The Malê revolt, otherwise known as the Ramadan revolt, was a slave revolt in Salvador, Bahia during the last 10 days of Ramadan in January of 1835. The rebellion was orchestrated mainly by African Muslim slaves against slave owners and was paramount to the eventual abolition of slavery across Brazil in 1888. The event was the culmination of years of unrest among Brazilian slave communities in Bahia, especially as they were forced into converting to Catholicism by slave owners and saw many other black Africans and mixed-race Brazilians participate in the slave trade. Understanding the tensions fueling the revolt as well as the impacts of the event is critical for gaining a sense of how blackness is treated in Brazil. The Malê revolt was an important step for establishing critical civil rights for Black Brazilians throughout Brazil, but its origins reveal parallels between the suffering of slaves in Salvador and the current condition of Afro-Brazilians as second-class citizens in a society claimed to be a “racial democracy”.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tropes and Fictions in Iberian Encounters</title>
-      <link>http://localhost:59985/tropes-and-fictions-in-iberian-encounters/</link>
+      <link>http://localhost:1313/tropes-and-fictions-in-iberian-encounters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59985/tropes-and-fictions-in-iberian-encounters/</guid>
+      <guid>http://localhost:1313/tropes-and-fictions-in-iberian-encounters/</guid>
       <description>&lt;p&gt;As the Portuguese began their conquest of the Caribbean, West Africa, and Brazil during the 16th century, common narratives emerged regarding the nature of Indigenous and African communities, as well as the justification and mission of Portuguese explorers in their accounts, both fact and fiction. The motivations for Iberian conquest in the New World and Africa mirrored many stereotypes and expectations of Indigenous societies across voyager accounts. By examining accounts of early encounters with these communities, common threads of Catholic religious responsibility and an “unintellectual” or “misguided” image of Indigenous communities emerge. Through these depictions of a religious, societal, and economic justification to colonize, early Iberian explorers across new lands were able to establish a narrative of moral superiority to fuel their conquest.&lt;/p&gt;</description>
     </item>
   </channel>

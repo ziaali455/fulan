@@ -32,8 +32,12 @@ jobs:
 
       - name: Build
         run: |
-          REPO_NAME="${GITHUB_REPOSITORY#*/}"
-          hugo -b "https://${{ github.repository_owner }}.github.io/${REPO_NAME}/" --minify
+          if [ -n "${{ vars.BASE_URL }}" ]; then
+            hugo -b "${{ vars.BASE_URL }}" --minify
+          else
+            REPO_NAME="${GITHUB_REPOSITORY#*/}"
+            hugo -b "https://${{ github.repository_owner }}.github.io/${REPO_NAME}/" --minify
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
