@@ -8,7 +8,7 @@ weight = 2
 
 
 [[books]]
-title = "The Boko Haram Reader by Kassim and Nwampa"
+title = "The Boko Haram Reader by Kassim and Nwankpa"
 image = "/images/books/boko.jpg"
 
 [[books]]
