@@ -7,3 +7,6 @@ enableRobotsTXT = true
 
 [params]
   description = 'fulan'
+  # Website icon (favicon). Use a square image, at least 32×32 px (PNG or ICO).
+  # Put your file in the static/ folder, then set the path from site root.
+  favicon = "images/favicon.png"
