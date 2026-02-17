@@ -6,6 +6,7 @@ weight = 1
 
 A collection of writings on the history of Portuguese colonization, Brazil, West Africa, Islam, and the Middle East. Written during my time at Columbia University and St Catherine's College, Oxford.
 
+- [Brazil's Encounters with Judaism, Islam, and Immigration]({{< ref "brazils-encounters-with-judaism-islam-and-immigration" >}})
 - [Tropes and Fictions in Iberian Encounters]({{< ref "tropes-and-fictions-in-iberian-encounters" >}})
 - [Brazil and Abolition]({{< ref "brazil-and-abolition" >}})
 - [Palmares and Afro-Brazilian Resistance]({{< ref "palmares-and-afro-brazilian-resistance" >}})

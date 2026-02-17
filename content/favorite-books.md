@@ -81,6 +81,14 @@ image = "/images/books/islamandfateof.jpg"
 [[books]]
 title = "The Emperor's New Mind by Penrose"
 image = "/images/books/emperorsnewmind.jpg"
+
+[[books]]
+title = "Como Agua Para Chocolate by Laura Esquivel"
+image = "/images/books/comoagua.jpg"
+
+[[books]]
+title = "Season of Migration to the North by Tayeb Salih"
+image = "/images/books/season.jpg"
 +++
 
 Some of my favorite books/the ones most relevant to my mind at the moment. 
