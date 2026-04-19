@@ -89,6 +89,14 @@ image = "/images/books/comoagua.jpg"
 [[books]]
 title = "Season of Migration to the North by Tayeb Salih"
 image = "/images/books/season.jpg"
+
+[[books]]
+title = "The Road to Mecca by Muhammad Asad"
+image = "/images/books/roadtomecca.jpg"
+
+[[books]]
+title = "The Royal Kingdoms of Ghana, Mali, and Songhay by Patricia and Fredrick McKissack"
+image = "/images/books/royalkingdoms.jpg"
 +++
 
 Some of my favorite books/the ones most relevant to my mind at the moment. 
